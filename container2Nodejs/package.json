@@ -1,0 +1,13 @@
+{
+    "name": "docker_web_app",
+    "version": "1.0.0",
+    "description": "Node.js on Docker",
+    "author": "bouyahy oumaima  <bouyahy@et.esiea.fr>",
+    "main": "server2.js",
+    "scripts": {
+      "start": "node server2.js"
+    },
+    "dependencies": {
+      "express": "^4.16.1"
+    }
+  }
