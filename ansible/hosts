@@ -1,0 +1,6 @@
+[users]
+10.0.3.4
+[user:vars]
+ansible_user=bouyahy22
+ansible_password=+-
+ansible_become_password=+-
